@@ -56,7 +56,7 @@ body {
   }
   
   button:nth-child(4n+1) {
-    background-color: #3498db;
+    background-color: green;
     color: white;
   }
   
